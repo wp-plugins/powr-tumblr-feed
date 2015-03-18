@@ -40,6 +40,7 @@ First, download, install, and activate POWr Tumblr Feed. Then drop the widget an
 * Support the development of other great plugins
 
 
+
 == Installation ==
 Download, install, and activate POWr Tumblr Feed.
 <br>
