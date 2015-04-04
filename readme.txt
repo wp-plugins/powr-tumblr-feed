@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Display multiple tumblr accounts in a single feed!
 
 == Description ==
-[youtube https://youtu.be/pDRAzP9I5Pw] Display multiple tumblr accounts in a single feed!
+[youtube https://www.youtube.com/watch?v=pDRAzP9I5Pw] Display multiple tumblr accounts in a single feed!
 <br>
 <br>
 POWr Tumblr Feed is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
