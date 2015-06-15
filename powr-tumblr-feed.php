@@ -1,14 +1,14 @@
 <?php
     /**
      * @package POWr Tumblr Feed
-     * @version 1.4.005
+     * @version 1.4.006
      */
     /*
     Plugin Name: POWr Tumblr Feed
     Plugin URI: http://www.powr.io
     Description: Display multiple tumblr accounts in a single feed!  Drop the widget anywhere in your theme. Or use the POWr icon in your WP text editor to add to a page or post. Edit on your live page by clicking the settings icon. More plugins and tutorials at POWr.io.
     Author: POWr.io
-    Version: 1.4.005
+    Version: 1.4.006
     Author URI: http://www.powr.io
     */
 
