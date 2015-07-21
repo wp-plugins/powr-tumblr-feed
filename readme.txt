@@ -2,7 +2,7 @@
 ===POWr Tumblr Feed===
 Contributors: powr
 Donate link: http://powr.io/
-Tags: free, responsive design, easy, personalize, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, twitter feed, twitter plugin, twitter widget, social media feed, social media plugin, live tweets, customizable twitter feed, mobile responsive, feed, tweet, embed twitter, social media, share, live feed, twitterfeed, twitter site, feed blog, post, repost, retweet, follow, realtime, twitter api, twitter timeline, instagram feed, instagram gallery, instagram share, social media feed, Facebook share, Facebook gallery, Facebook feed, Tumblr share, Tumblr gallery, Tumblr feed, Tumblr embed, instagram api, Facebook api, Tumblr api, facebook, instagram, tumblr, automatic
+Tags: Facebook, Instagram, Pinterest, YouTube, Twitter, Vine, Tumblr, Flickr, RSS, Vimeo, Dailymotion, free, responsive design, easy, personalize, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, twitter feed, twitter plugin, twitter widget, social media feed, social media plugin, live tweets, customizable twitter feed, mobile responsive, feed, tweet, embed twitter, social media, share, live feed, twitterfeed, twitter site, feed blog, post, repost, retweet, follow, realtime, twitter api, twitter timeline, instagram feed, instagram gallery, instagram share, social media feed, Facebook share, Facebook gallery, Facebook feed, Tumblr share, Tumblr gallery, Tumblr feed, Tumblr embed, instagram api, Facebook api, Tumblr api, facebook, instagram, tumblr, automatic, pinterest, pinterest gallery
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.4
@@ -23,19 +23,20 @@ First, download, install, and activate POWr Tumblr Feed. Then drop the widget an
 = <a href='http://www.powr.io/tutorials/how-to-add-tumblr-feed-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
-* Automatically display posts from multiple Tumblr accounts in a single feed.
+* Display posts from multiple Tumblr accounts in a single feed.
 * Adjust the priority for different accounts to display your favorite content.
-* Add any Tumblr account.
-* Choose from expert-designed templates or customize fonts, colors, backgrounds, and more.
-* Easy-to-use design tools let you customize size and spacing of your feed.
-* Built-in support displays text in any language.
+* Follow any public Tumblr account.
+* Content updates every 60 minutes.
+* Use expert templates or customize from scratch.
+* Custom fonts, colors, borders, backgrounds, and spacing.
+* Display text in any language.
 * Mobile responsive design looks great on any device.
 <br>
 
-= Upgrade ($3.99)/mo and: =
+= Upgrade ($4.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-* Up to 5 Accounts - add and display up to 5 different Tumblr accounts.
-* Faster Updates - faster update times keep your content fresh.
+* Display up to 5 different feeds
+* Refresh content every 20 minutes
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
